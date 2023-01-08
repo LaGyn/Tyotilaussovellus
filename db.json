@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hannu Hanhi",
+      "password": "keksi"
+    },
+    {
+      "id": 2,
+      "name": "Iines Ankka",
+      "password": "rusetti"
+    },
+    {
+      "id": 3,
+      "name": "Aku Ankka",
+      "password": "kaak"
+    },
+    {
+      "name": "Mauno",
+      "password": "qwerty",
+      "id": 4
+    }
+  ]
+}

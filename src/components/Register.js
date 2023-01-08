@@ -32,5 +32,4 @@ function Register() {
   );
 }
 
-//render(<Register />);
 export default Register
