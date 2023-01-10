@@ -11,4 +11,4 @@ const create = (userObject) => {
     return request.then(response => response.data)
 }
 
-export default { getAll, create }
+export default { getAll, create };
