@@ -1,4 +1,4 @@
-Sähköinen työtilaussovellus, joka sisältää:
+Sähköinen työtilaussovellus, joka tulee sisältämään:
 - Uuden käyttäjän rekisteröinnin
 - Käyttäjän kirjautumisen
 - Työtilauslomakkeen täytettäväksi ja lähetettäväksi
@@ -6,3 +6,4 @@ Sähköinen työtilaussovellus, joka sisältää:
 
 Rekisteröinti erillisellä modaalilla.
 Tietokanta
+Projekti työnalla
